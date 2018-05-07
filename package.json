@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@neutrinojs/react": "^8.2.3",
+    "neutrino": "^8.2.3"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-hot-loader": "^4.1.2"
+  },
+  "name": "mern-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mala23/mern-todo.git",
+  "author": "Colin Nico Schmid <mail@mala23.me>",
+  "license": "MIT",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start"
+  }
+}
