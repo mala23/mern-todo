@@ -4,10 +4,15 @@
     "neutrino": "^8.2.3"
   },
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17",
+    "morgan": "^1.9.0",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-hot-loader": "^4.1.2"
+    "react-hot-loader": "^4.1.2",
+    "source-map-support": "^0.5.5"
   },
   "name": "mern-todo",
   "version": "1.0.0",
